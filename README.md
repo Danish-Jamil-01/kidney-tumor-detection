@@ -115,5 +115,7 @@ Contributions to this project are welcome. Feel free to open an issue or submit 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+<br>
+
 ## Acknowledgments
 - <b>Dataset:</b> [CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)
