@@ -21,6 +21,7 @@ The repository has the following structure:
 - <code>8x8.ipynb</code><br>
 - <code>LICENSE</code><br>
 - <code>README.md</code><br>
+- <code>requirements.txt</code><br>
 
 <br>
 
@@ -113,3 +114,6 @@ Contributions to this project are welcome. Feel free to open an issue or submit 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- <b>Dataset:</b> [CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)
