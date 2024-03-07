@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+pathlib
+matplotlib
+seaborn
+scikit-image
+tensorflow
+imbalanced-learn
