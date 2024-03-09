@@ -33,7 +33,10 @@ To use this code, follow these steps:
 
 <li><b>Clone the repository to your local machine:</b>
  <br>
-    <code>git clone https://github.com/Danish-Jamil-01/kidney-tumor-detection.git</code>
+
+ ```bash
+git clone https://github.com/Danish-Jamil-01/kidney-tumor-detection.git
+```
 </li>
 <br>
 
