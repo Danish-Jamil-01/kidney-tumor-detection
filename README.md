@@ -107,7 +107,7 @@ Contributions to this project are welcome. Feel free to open an issue or submit 
 
 <br>
 
-## Authors
+## Author
 [Danish Jamil](https://github.com/Danish-Jamil-01)
 
 <br>
