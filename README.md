@@ -92,6 +92,15 @@ git clone https://github.com/Danish-Jamil-01/kidney-tumor-detection.git
 
 The project demonstrates how changes in input image resolution affect the algorithm's output. By comparing the performance metrics (e.g., accuracy, F1 score) across different resolutions, insights can be gained into the optimal resolution for kidney disease detection.
 
+The F1 Score across different input resolutions is as follows:
+- 2x2 --> 0.445
+- 4x4 --> 0.62
+- 8x8 --> 0.68
+- 16x16 --> 0.76
+- 32x32 --> 0.865
+- 64x64 --> 0.92
+- 128x128 --> 0.93
+- 256x256 --> 0.945
 <br>
 
 ## Future Improvements
